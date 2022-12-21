@@ -1,6 +1,6 @@
 body {
     background-image: url("image4.png");
-    background-size: 100%;
+    background-size: contain;
 
    /* width: 500px;
   
